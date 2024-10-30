@@ -1,9 +1,7 @@
 # Publications
 
-## 2023
-- [The effect of lactose intolerance on future lunar exploration. O'Brien et al., Nature 1234 2023](link_to_paper)
-- [Is the Moon made of cheese? O'Brien et al., Nature 1233 2023](link_to_paper)
-## 2022
-- [On ignoring experts within your field and claim everything is Aliens. O'Brien et al, "Science" 2022 ](link_to_paper)
-## 1995
-- ["Got your nose", a worrying rise in nasal robbery, O'Brien et al, 1st grade show and tell, 1995](link_to_paper)
+## 2024
+- [Characterizing Light-Matter Interactions in WS2 with Scanning Probe Microscopy](link_to_paper)
+## 2020
+- [Exposure to electronic devices and sleep quality in adolescents: a matter of type, duration, and timing. Caumo et al., Sleep Health, 2020 ](https://www.sciencedirect.com/science/article/pii/S2352721819302669?via%3Dihub)
+- [The Brazilian-Portuguese version of the Sleep Hygiene Index (SHI): validity, reliability and association with depressive symptoms and sleep-related outcomes, Tonon et al., Sleep Science, 2020](https://pubmed.ncbi.nlm.nih.gov/32670491/)
