@@ -1,3 +1,5 @@
-# How to cook toast
+# How to make Chilean-style empanadas
 
-Put bread into toaster and hope.
+Ingredients:
+
+Instruction:
