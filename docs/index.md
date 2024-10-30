@@ -1,9 +1,9 @@
 # My name is Gui Caumo
-## I am a physics researcher interested in studying exotic properties of matter!
+<font size="8">   I am a physics researcher interested in studying exotic properties of matter! </font>
 
 ![Coma cluster](./media/Crab_Nebula.jpg "Crab Nebula"){align="left": style="height:150;width:150px"}
 
-Welcome! My name is Guilherme Caumo. I am a physics graduate student at McGill University interested in pursuing exciting new projects that push the boundaries of our understanding of the behaviour of matter. 
+Welcome! My name is Guilherme Caumo. I am a physics graduate student at McGill University interested in pursuing exciting new projects that push the boundaries of our understanding of the behaviour of matter.
 
 Currently, I am completing a master’s thesis on characterizing quantum fluctuations with the supervision of Prof. Peter Grutter. I had great experiences working with the Grutter Group during the summer of 2023 as an undergraduate researcher and I am thrilled to join it as a graduate student to try my hand at discovering new phenomena at the smallest physical scales.
 
