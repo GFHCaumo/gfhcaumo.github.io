@@ -11,5 +11,5 @@ For the sake of keeping this introduction concise here are some pages if you wis
 
 ## Here is a picture of the experiment I am currently involved in:
 
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
+[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Atomic_force_microscopy)
 This is an [Atomic Force Microscope](https://en.wikipedia.org/wiki/Atomic_force_microscopy) that I am working on.
