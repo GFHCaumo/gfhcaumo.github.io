@@ -1,6 +1,6 @@
 # Projects
 
-Here are some projects that I am working on. 
+Here are some projects that I have completed: 
 
-- [Python Project](./python_project/python_project.ipynb) is an amazing python project that will allow you to see my coding skills.
-- [Data Project](./data_project/index.md) is an even more amazing project where I share data that I've used.
+- [Rayleigh-Benard Convection Simulation](./python_project/python_project.ipynb) I had a blast studying the hydrodynamics during my undergrad so I wrote this fluid simulation with my friends as a computational physics project.
+- [Brownian Motion Simulation](./data_project/index.md) Here is a simulation for Brownian motion that I wrote, it gave me the chance to learn about new ways to incorporate physics in my code.
