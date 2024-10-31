@@ -1,9 +1,9 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Gui's Website
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://gfhcaumo.github.io/ # must have the trailing slash
+site_author: Guilherme H. Caumo (guilherme.caumo@mail.mcgill.ca)
+site_description: This is a personal website where I talk about who I am and what I am researching.
 copyright: > # should remain a link to the original theme
   &copy; 2023 Your Name <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
