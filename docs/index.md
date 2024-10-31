@@ -10,4 +10,4 @@ For the sake of keeping this introduction concise here are some pages if you wis
 ## Here is a picture of the experiment I am currently involved in:
 
 [![Atomic Force Microscope](./media/r2d2.jpg "Atomic Force Microscope")](https://en.wikipedia.org/wiki/Atomic_force_microscopy)
-This is an [Atomic Force Microscope](https://en.wikipedia.org/wiki/Atomic_force_microscopy) that I am working on.
+This is an [Atomic Force Microscope](https://en.wikipedia.org/wiki/Atomic_force_microscopy) that I am working on, informally called R2-D2.
