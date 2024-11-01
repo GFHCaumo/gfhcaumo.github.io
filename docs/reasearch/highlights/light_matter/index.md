@@ -4,4 +4,4 @@ One of my current projects has to do with investigating the ways in which light 
 
 I am currently working in tandem with other physicists and engineers on this project to construct an ultra-high vacuum system to study these samples and I am excited to take this opportunity to learn new techniques and learn more about the properties of matter at the smallest physical scales!
 
-If you are curious about this project do not hesitate to [contact me](../../contact)! I am always happy to talk about my work and exchange ideas.
+If you are curious about this project do not hesitate to [contact me](../../../contact)! I am always happy to talk about my work and exchange ideas.
