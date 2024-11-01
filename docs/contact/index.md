@@ -1,6 +1,9 @@
-# Projects
+# Contact
 
-Here are some projects that I have completed: 
+My office is in the Room 404 at Rutherford Physics Building at McGill University
 
-- [Rayleigh-Benard Convection Simulation](https://github.com/GFHCaumo/RBC-Project) I had a blast studying the hydrodynamics during my undergrad so I wrote this fluid simulation with my friends as a computational physics project.
-- [Brownian Motion Simulation](./data_project/index.md) Here is a simulation for Brownian motion that I wrote, it gave me the chance to learn about new ways to incorporate physics in my code.
+You can email me at: [guilherme.caumo@mail.mcgill.ca](guilherme.caumo@mail.mcgill.ca)
+
+My [LinkedIn](https://www.linkedin.com/in/guilherme-felipe-hidalgo-caumo-1a57451b5/)
+
+My [Github](https://github.com/GFHCaumo)
