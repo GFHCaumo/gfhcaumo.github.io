@@ -3,7 +3,7 @@ I will be writing out some of my favorite recipes here along with some posts abo
 
 
 ## Chilean-style Empanadas
-![Empanadas](./media/empanadas.jpg "Empanadas"){align="left": style="height:150;width:150px"}
+![Empanadas](./media/empanadas.png "Empanadas"){align="left": style="height:150;width:150px"}
 
 Ingredients:
 
