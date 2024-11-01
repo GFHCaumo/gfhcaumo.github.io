@@ -9,7 +9,6 @@ My work on the lateral distribution of muons in cosmic-ray showers was presented
 
 <iframe width="100%" height="600" src="./media/muonpres.pdf">
 
-
 Attached below you may find my reports for the muon coincidence project and my characterization of the instrumentation by measuring the muon lifetime.
 
 <iframe width="100%" height="600" src="./media/muon.pdf">
