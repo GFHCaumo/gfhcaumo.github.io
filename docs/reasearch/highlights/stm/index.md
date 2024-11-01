@@ -1,11 +1,10 @@
-# Multiwavelength Paper
+# Scanning Probe Microscopy Instrumentation
 
-In this multiwavelength paper, I use data from [VERITAS](https://veritas.sao.arizona.edu/), [Swift](https://www.swift.ac.uk/) and [CHIME](https://chime-experiment.ca/en), to study the equivalencies of sample galaxies when investigating instrumental systematic. Applying [Keeler's theorem](https://theinfosphere.org/Futurama_theorem) ([see also](https://medium.com/@mikaeldavidsson/the-futurama-theorem-103980db677b)) it can be shown that convergence is quickly obtained, requiring at minimum two additional sample galaxies.
+I had the privilege of working with the Grutter Group in the summer of 2023, and I worked with various aspects of instrumentation in scanning tunneling microscopes. While there, I was able to attend weekly meetings to learn about new developments in scanning probe microscopy and learn techniques in nanoscience, mechanical design, and circuitry. Now, I am interested in pursuing new projects in this field, which has already offered me so many chances to grow as a researcher. 
 
+For this project, the aim was to work with a scanning tunneling microscope that would, if proven functional, be used in an ultra-high vacuum glovebox environment. I managed to fully characterize the instrument and its control system, and demonstrate that, due to a fault in the trimpot, it could not be used as it required further work and repairs. This taught me valuable lessons as a researcher as it allowed me to further develop my background in data analysis by now exploring techniques in instrumentation and hardware.
 
+Attached below is some of the pictures I took of the microscope:
 
-<figure markdown>
-  ![Coma cluster](./media/coma_cluster.png){: style="height:300px;width:500px"}
-  <!-- Within fig caption normal markdown linking doesn't work, instead use a href attribute -->
-  <figcaption>Centered and resized image of the Coma Cluster (source <a href="https://esahubble.org/images/potw1849a/">ESA</a>) </figcaption>
-</figure>
+![STM](./media/stm.png "STM"){align="left": style="height:350;width:350px"}
+
