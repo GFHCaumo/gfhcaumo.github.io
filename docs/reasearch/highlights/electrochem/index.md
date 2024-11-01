@@ -1,11 +1,11 @@
-# Awesome Paper
+# Electrochemical Sensor Development
 
-Here is a brief summary of my awesome paper which is published [here](https://onlinelibrary.wiley.com/doi/10.1002/andp.19053231314). 
-In this paper I postulate if the Inertia of an object Depend Upon Its Energy Content?
-It is found that:
+As part of my work with the Grutter Group as an undergraduate student, I undertook a project with the goal of building an electrochemical sensor and was responsible for designing the electronic components, calibrating the position sensing detectors and microcantilevers, and setting up a functional optical setup for the sensor.
 
-$$E = mc^2$$
+I had a great time learning more about the theory surrounding this experimental setup and bringing that to life by developing circuits capable of processing the signals received by the sensors in the apparatus. With this project, I was able to grow as a physicist by gaining a different perspective from the background I had from mainly working with data analysis as I was introduced to multiple new techniques in instrumentation.
 
-Here is an interesting figure from this paper:
+Here are some pictures I took of the setup I was working with and the circuits I developed!
 
-![A screenshot of the paper](./media/einstein.png)
+![Setup](./media/setup.jpg)
+
+![Circuit](./media/circuit.jpg)
