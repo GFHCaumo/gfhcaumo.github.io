@@ -1,5 +1,5 @@
 # Cooking and Recipes
-I will be writing out some of my favorite recipes here along with some posts about what I have been cooking lately
+I will be writing out some of my favorite recipes here along with some posts about what I have been cooking lately.
 
 
 ## Chilean-style Empanadas
