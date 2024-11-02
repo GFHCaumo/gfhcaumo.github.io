@@ -1,6 +1,6 @@
 # Research Interests
 
-I am currently working on two research projects, see below.
+I am currently working on two research projects! One is concerned with investigating [quantum fluctuations of electron and electron hole pairs](./highlights/quantum_fluc/index.md) and the other with [light-matter interactions](./highlights/light_matter/index.md). See more about my research and past research experiences below!
 
 
 ## Recent Highlights
