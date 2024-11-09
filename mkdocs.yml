@@ -72,4 +72,3 @@ plugins:
     # Using jupyter notebook  
     - mkdocs-jupyter:
           theme: default
-
