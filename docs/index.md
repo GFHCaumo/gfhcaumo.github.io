@@ -21,7 +21,7 @@
 </div>
 
 
-<font size="7">   I am a physics researcher interested in studying exotic properties of matter! </font>
+<font size="6.5">   I am a physics researcher interested in studying exotic properties of matter! </font>
 
 Welcome! My name is Guilherme Caumo but you can call me Gui for short. I am a physics graduate student at McGill University interested in pursuing exciting new projects that push the boundaries of our understanding of the behaviour of matter.
 
