@@ -6,4 +6,4 @@ You can email me at: [guilherme.caumo@mail.mcgill.ca](mailto:guilherme.caumo@mai
 
 My [LinkedIn](https://www.linkedin.com/in/guilherme-felipe-hidalgo-caumo-1a57451b5/)
 
-My [Github](https://github.com/GFHCaumo)
+My [GitHub](https://github.com/GFHCaumo)

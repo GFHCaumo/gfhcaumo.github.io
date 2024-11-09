@@ -9,8 +9,6 @@ copyright: > # should remain a link to the original theme
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
-
-
 theme:
     name: dracula
     logo: "img/logo.png" 
@@ -46,13 +44,14 @@ theme:
     - content.code.annotate 
     - content.code.copy
 
+extra_css:
+  - assets/css/custom.css
+
 extra_javascript:
-  
   # For rendering latex
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
 
 # For describing the navigation panel
 nav:
@@ -62,13 +61,10 @@ nav:
   - Projects: projects/index.md
   - Contact: contact/index.md
 
-
 # Extensions that we want to use
 markdown_extensions:
   - attr_list   # For adding attributes such as right/left align to images
   - md_in_html  # Using Figures
-
-
 
 # Additional plugins
 plugins:
