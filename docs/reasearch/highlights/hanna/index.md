@@ -7,4 +7,4 @@ design studies, developing analysis code, and calibrating devices for the develo
 
 My work on the lateral distribution of muons in cosmic-ray showers was presented at the Canadian Astro/Particle Summer Student Talk competition and the Trottier Space Institute, slides attached below.
 
-<iframe width="100%" height="600" src="./media/muonpres.pdf">
+<iframe src="./media/muonpres.pdf" width="100%" height="500px"></iframe>

@@ -18,4 +18,4 @@ In my free time, I enjoy trying out new recipes and cooking. Personally, I think
 # CV
 
 <!-- How to embed a PDF -->
-<iframe width="100%" height="600" src="./media/Caumo_Guilherme_CV.pdf">
+<iframe src="./media/Caumo_Guilherme_CV.pdf" width="100%" height="500px"></iframe>

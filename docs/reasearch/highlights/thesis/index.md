@@ -8,4 +8,4 @@ Due to my interest in high-energy physics and theoretical techniques, I have pur
 
 The aim of the thesis was to perform a study of numerical instabilities occuring in quark gluon plasma simulations for heavy-ion collisions, being able to discover the root cause is attributed to unphysically large gradients in regions of low density. I had the priviledge to be able to become familiar with various techniques in high-energy theory and phenomenology, and I found a great amount of joy in being able to study papers to learn new ways to simulate physical phenomena, discovering a passion for building and studying theoretical models in close proximity to experiment. If you wish to learn more about this project, see below for my Undergraduate Honours Thesis!
 
-<iframe width="100%" height="600" src="./media/thesis.pdf">
+<iframe src="./media/thesis.pdf" width="100%" height="500px"></iframe>

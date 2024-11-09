@@ -39,7 +39,7 @@ Assembly:
 
 2. Make eggwash mixing 1 whole egg with half a cup of milk well.
 
-3. Take each disk and place approximately 2 tablespoons of filling, 1/4 of boiled egg, 1 good uality olive, and add 2 raisins.
+3. Take each disk and place approximately 2 tablespoons of filling, 1/4 of boiled egg, 1 good quality olive, and add 2 raisins.
 
 4. Cover corners of dough with egg wash and fold the empanada. Then press down to seal it with the sides of your hands. Fold the right and left sides and then the center and press down to seal well. Do this for all the disks. 
 
