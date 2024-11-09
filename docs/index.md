@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center;">
-  <h1 id="gui-caumo" style="border-bottom: 1px solid transparent; padding-right: 30px;">Gui&nbsp;Caumo</h1>
+  <h1 id="gui-caumo" style="border-bottom: 1px solid transparent; padding-right: 45tespx;">Gui&nbsp;Caumo</h1>
     <table style="border-collapse: collapse; border: none;">
     <tr>
         <td style="border: none;">
